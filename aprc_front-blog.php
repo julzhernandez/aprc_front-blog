@@ -3,7 +3,7 @@
  * Plugin Name: APRC Front Blog
  * Plugin URI: http://www.aprc.fr
  * Description: Custom layout for DIVI blog.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Julz Hernandez
  * Author URI: http://julzhernandez.com
  * License: GPL2
