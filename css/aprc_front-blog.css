@@ -334,11 +334,7 @@ font-size: 14px;
     background: rgba(142, 130, 121, 0.1);
 }
 
-/*@media only screen and (max-width: 980px) {
-    .ds-thumbnail-blog a.more-link {
-        margin: 40px 0 20px 0;
-    }
-}*/
+
 /*This styles the read more link on hover*/
 .ds-thumbnail-blog a.more-link:hover {
     color: #fff;
@@ -353,10 +349,7 @@ font-size: 14px;
     background: rgba(142, 130, 121, 0.1);
 }
 
-/*This styles the double arrow on hover
-.ds-thumbnail-blog a.more-link:hover:after {
-    color: #fff;
-}*/
+
 /*This styles the post pagination links*/
 
 .pagination a {
@@ -393,7 +386,6 @@ font-size: 14px;
 
 
 .ds-thumbnail-blog .post_format-post-format-video .post-meta { 
-	/*display: none;*/
 	margin-top: 228px !important;
 }
 
@@ -591,7 +583,7 @@ div#text-3.et_pb_widget {
 }
 
 /*------------------------------------------------*/
-/*-----------------[HIDE SIDEBAR BORDER]------------------*/
+/*-----------------[HIDE SIDEBAR BORDER]----------*/
 /*------------------------------------------------*/
 
 .container:before { background-color:transparent !important; }
